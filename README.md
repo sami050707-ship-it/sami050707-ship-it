@@ -4,7 +4,7 @@
 
 ### `Developer` · `AI Builder` · `Problem Solver`
 
-<img src="./ascii-portrait.png" width="100%" alt="ASCII portrait"/>
+<img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait"/>
 
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Development-0d1117?style=for-the-badge&logo=openai" alt="AI and Web Development"/>
 <img src="https://img.shields.io/badge/Building-SkillForge%20AI-58a6ff?style=for-the-badge" alt="SkillForge AI"/>
