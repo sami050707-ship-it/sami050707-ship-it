@@ -1,0 +1,36 @@
+{
+  "name": "SkillForge AI",
+  "type": "AI-enabled learning platform prototype",
+  "event": "Smart India Hackathon 2026",
+  "languages": [
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "frontend": [
+    "React",
+    "Vite",
+    "Tailwind CSS",
+    "React Router"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "CORS",
+    "dotenv"
+  ],
+  "ai": [
+    "Groq API"
+  ],
+  "3d_motion": [
+    "Three.js",
+    "React Three Fiber",
+    "drei",
+    "Framer Motion"
+  ],
+  "documents": [
+    "PDF.js",
+    "jsPDF"
+  ]
+}
